@@ -1,0 +1,24 @@
+{
+  "name": "demo-package-lock-merges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WestonThayer/demo-package-lock-merges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WestonThayer/demo-package-lock-merges/issues"
+  },
+  "homepage": "https://github.com/WestonThayer/demo-package-lock-merges#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "stripe": "^10.13.0"
+  }
+}
